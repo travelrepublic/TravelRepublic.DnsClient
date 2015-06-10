@@ -2,6 +2,8 @@
 
 A dns client library based on [DnDns](http://dndns.codeplex.com/) for .NET.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/nw3s9bvmwm5ask1c?svg=true)](https://ci.appveyor.com/project/travelrepublic-bot/travelrepublic-dnsclient)
+
 ###Install
 
 ```
