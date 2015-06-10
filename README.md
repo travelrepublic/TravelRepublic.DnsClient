@@ -10,7 +10,7 @@ A dns client library based on [DnDns](http://dndns.codeplex.com/) for .NET.
 PM> Install-Package TravelRepublic.DnsClient
 ```
 
-###Get started 
+###Get Started 
 
 ```csharp
 var client = new DnsClientBuilder()
