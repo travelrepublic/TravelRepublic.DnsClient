@@ -98,7 +98,7 @@ namespace TravelRepublic.DnsClient
         readonly Record[] _authoritiveNameServers;
         readonly int _bytesReceived = 0;
             
-        internal Response(
+        public Response(
             ushort transactionId, 
             ushort flags, 
             QueryResponse queryResponse, 
